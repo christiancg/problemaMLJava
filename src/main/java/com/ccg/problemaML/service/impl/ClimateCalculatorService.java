@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 
 import com.ccg.problemaML.models.Clima;
 import com.ccg.problemaML.models.Planet;
+import com.ccg.problemaML.models.Point;
 import com.ccg.problemaML.service.IClimaCalculatorService;
-import com.ccg.problemaML.views.Point;
 
 @Service
 public class ClimateCalculatorService implements IClimaCalculatorService{

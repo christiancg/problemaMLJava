@@ -2,6 +2,7 @@ package com.ccg.problemaML.views;
 
 import com.ccg.problemaML.models.Clima;
 import com.ccg.problemaML.models.Planet;
+import com.ccg.problemaML.models.Point;
 
 public class ExtendedClimaResponse {
     public Clima clima;

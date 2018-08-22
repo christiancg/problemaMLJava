@@ -1,6 +1,7 @@
 package com.ccg.problemaML.views;
 
 import com.ccg.problemaML.models.Planet;
+import com.ccg.problemaML.models.Point;
 
 public class PositionResponse {
     public Planet planet;

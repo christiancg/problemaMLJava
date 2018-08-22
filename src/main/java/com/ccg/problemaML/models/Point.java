@@ -1,4 +1,4 @@
-package com.ccg.problemaML.views;
+package com.ccg.problemaML.models;
 
 public class Point {
     public double x;
