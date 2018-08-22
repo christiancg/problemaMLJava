@@ -1,4 +1,4 @@
-package com.ccg.problemaML.rest;
+package com.ccg.problemaML.controllers;
 
 import java.util.*;
 
