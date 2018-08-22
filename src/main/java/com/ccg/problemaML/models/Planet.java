@@ -1,6 +1,6 @@
 package com.ccg.problemaML.models;
 
-public class Planet {
+public abstract class Planet {
 	public int angularVelocity;
     public int angle;
     public int distance;
